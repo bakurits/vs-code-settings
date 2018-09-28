@@ -1,0 +1,7 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Quiet Light",
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideTabs": false,
+    "git.autofetch": true
+}
